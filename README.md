@@ -32,4 +32,5 @@ Exploratory analysis of fitness tracker data (steps, heart rate, calories) to co
    jupyter notebook notebooks/fitness_eda.ipynb
    ```
 
-## 📊 Dashboard
+## 📊 Dashboard Preview
+[![Dashboard Screenshot](/images/dashboard_preview.png)](https://public.tableau.com/views/YourDashboardName)
